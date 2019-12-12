@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Fireball.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D803E85D-76DD-4590-993F-0C85CCAD54BE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Fireball.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FireballEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{02FAA35C-C78D-4AE9-A46B-08C6F787F444}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{BCC76A6B-DE73-4F8A-9AB9-9B1EDC64B886}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{FF090794-CDB5-416D-BF6C-4ECE429DE57F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{C3998B2A-576B-4879-8C93-BD4F541EFFF7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{7972FC55-DBF6-4948-9F56-5731F0064878}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{93E3D08A-6D1C-4835-B665-5AAA465790E0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{734EC0AD-37BF-48EA-8F24-F7F60857133D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{41B75B4B-F164-4159-ABE8-BFA29BE3A9D8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{44DD5420-7D18-4C65-8E4E-5485C404C6B3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\Fireball">
+      <UniqueIdentifier>{D9489162-ACB2-455F-85AF-E76946E8E69A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Fireball\Fireball.Build.cs">
+      <Filter>Source\Fireball</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Fireball\Fireball.cpp">
+      <Filter>Source\Fireball</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fireball\Fireball.h">
+      <Filter>Source\Fireball</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fireball\FireballGameModeBase.cpp">
+      <Filter>Source\Fireball</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fireball\FireballGameModeBase.h">
+      <Filter>Source\Fireball</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Fireball\Countdown.h">
+      <Filter>Source\Fireball</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Fireball\Countdown.cpp">
+      <Filter>Source\Fireball</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

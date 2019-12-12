@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Collisions.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{707C5FB0-D67B-4ECA-81A1-1DA03A95F5D1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Collisions.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CollisionsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{99FDA2CB-008F-4496-A54A-6E0AF3FDBE1D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{82D1BA7F-6625-4B4D-A7DD-DF25CBA05B96}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{26B46ED0-5416-4E09-84B0-E9C665F5F407}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{81639E5E-E958-45BC-9DFE-D8A096D4C0F8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{4D7CF137-4756-4008-8380-FB6A2AA0D486}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{698D58D8-F20D-473F-BA00-52EB2E35AF32}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{34292EE6-DFE8-4730-8D77-742B2B8C65E4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{2DF136F1-5E9D-455F-8D3B-0CC72854CB95}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{6760CAFC-11CC-4AD1-926E-FFA981781C7B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\Collisions">
+      <UniqueIdentifier>{4AFEDDBC-3921-4F8E-B635-1A9EB071D5CF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Collisions\Collisions.Build.cs">
+      <Filter>Source\Collisions</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Collisions\Collisions.cpp">
+      <Filter>Source\Collisions</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Collisions\Collisions.h">
+      <Filter>Source\Collisions</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Collisions\CollisionsGameModeBase.cpp">
+      <Filter>Source\Collisions</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Collisions\CollisionsGameModeBase.h">
+      <Filter>Source\Collisions</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Collisions\CollidingPawn.h">
+      <Filter>Source\Collisions</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Collisions\CollidingPawnMovementComponent.h">
+      <Filter>Source\Collisions</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Collisions\CollidingPawn.cpp">
+      <Filter>Source\Collisions</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Collisions\CollidingPawnMovementComponent.cpp">
+      <Filter>Source\Collisions</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+C:\Work\ZR\Week1Lab\Source\Week1Lab\Week1Lab.Build.cs
+C:\Work\ZR\Week1Lab\Source\Week1Lab.Target.cs
+C:\Work\ZR\Week1Lab\Source\Week1LabEditor.Target.cs

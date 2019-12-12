@@ -1,0 +1,13 @@
+﻿  Cleaning HowTo_PlayerCameraEditor and UnrealHeaderTool binaries...
+UnrealBuildTool : warning : Trying to build an enterprise target but the enterprise directory is missing. Falling back on engine components only.
+  Creating makefile for HowTo_PlayerCameraEditor (no existing makefile)
+UnrealBuildTool : warning : Trying to build an enterprise target but the enterprise directory is missing. Falling back on engine components only.
+  Parsing headers for HowTo_PlayerCameraEditor
+    Running UnrealHeaderTool "D:\Unreal\Week2\HowTo_PlayerCamera\HowTo_PlayerCamera.uproject" "D:\Unreal\Week2\HowTo_PlayerCamera\Intermediate\Build\Win64\HowTo_PlayerCameraEditor\DebugGame\HowTo_PlayerCameraEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for HowTo_PlayerCameraEditor in 8.9741371 seconds
+  Using Visual Studio 2017 14.15.26726 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 15 actions with 4 processes...
+    [1/15] Default.rc2
+    [2/15] SharedPCH.Engine.NonOptimized.cpp
+c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Windows/WindowsPlatformCompilerSetup.h(22): error C2338: Visual Studio 2017 versions 15.7 and 15.8 are known to have code generation bugs that affect UE4. Please update to version 15.9.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(49,5): error MSB3073: The command ""C:\Program Files\Epic Games\UE_4.23\Engine\Build\BatchFiles\Rebuild.bat" HowTo_PlayerCameraEditor Win64 DebugGame -Project="D:\Unreal\Week2\HowTo_PlayerCamera\HowTo_PlayerCamera.uproject" -WaitMutex -FromMsBuild" exited with code -1.

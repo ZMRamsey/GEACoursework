@@ -1,0 +1,9 @@
+D:\Unreal\HowTo_PlayerCamera\Intermediate\Build\Win64\UE4Editor\Development\HowTo_PlayerCamera\Definitions.HowTo_PlayerCamera.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Unreal\HowTo_PlayerCamera\Source\HowTo_PlayerCamera/HowTo_PlayerCameraGameModeBase.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+d:\unreal\howto_playercamera\intermediate\build\win64\ue4editor\inc\howto_playercamera\HowTo_PlayerCameraGameModeBase.generated.h

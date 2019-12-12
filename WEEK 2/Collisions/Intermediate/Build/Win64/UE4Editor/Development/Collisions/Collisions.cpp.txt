@@ -1,0 +1,2 @@
+C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Intermediate\Build\Win64\UE4Editor\Development\Collisions\Definitions.Collisions.h
+c:\users\zoey\documents\coding\unreal\geacoursework\week 2\collisions\source\collisions\Collisions.h

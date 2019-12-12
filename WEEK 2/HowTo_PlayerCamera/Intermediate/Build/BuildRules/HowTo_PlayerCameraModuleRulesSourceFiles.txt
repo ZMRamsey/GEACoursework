@@ -1,0 +1,3 @@
+D:\Unreal\HowTo_PlayerCamera\Source\HowTo_PlayerCamera\HowTo_PlayerCamera.Build.cs
+D:\Unreal\HowTo_PlayerCamera\Source\HowTo_PlayerCamera.Target.cs
+D:\Unreal\HowTo_PlayerCamera\Source\HowTo_PlayerCameraEditor.Target.cs

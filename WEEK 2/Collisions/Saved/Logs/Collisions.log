@@ -1,0 +1,1145 @@
+﻿Log file open, 12/12/19 17:39:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Collisions
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.115990
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Athlon(tm) X4 880K Quad Core Processor     , GPU: NVIDIA GeForce GT 710
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.12-17.39.18:855][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.12-17.39.18:855][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Engine.ini]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Engine.ini]
+[2019.12.12-17.39.18:856][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Engine.ini]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Engine.ini]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.12-17.39.18:856][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Engine.ini]
+[2019.12.12-17.39.18:856][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Engine.ini]
+[2019.12.12-17.39.18:862][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-17.39.18:862][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.12-17.39.18:862][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.12-17.39.18:862][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-17.39.18:862][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.12-17.39.18:862][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-17.39.18:862][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.12-17.39.18:862][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.12-17.39.18:862][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.12-17.39.18:862][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.12-17.39.18:862][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.12-17.39.18:862][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.12-17.39.18:862][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.12-17.39.18:863][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-17.39.18:863][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.12-17.39.18:864][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.12-17.39.18:864][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.12-17.39.18:864][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.12-17.39.18:864][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.12-17.39.18:864][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.12-17.39.18:864][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.12-17.39.18:864][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.12-17.39.18:864][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.12-17.39.18:864][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.12-17.39.18:864][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.12-17.39.18:864][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.12-17.39.18:864][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.12-17.39.18:864][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-17.39.18:864][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.12-17.39.18:864][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.12-17.39.18:864][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.12-17.39.18:864][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.12-17.39.18:868][  0]LogHAL: Display: Platform has ~ 16 GB [17116303360 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.12-17.39.18:868][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.12-17.39.18:868][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2019.12.12-17.39.18:868][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2019.12.12-17.39.18:868][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2019.12.12-17.39.18:868][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2019.12.12-17.39.18:868][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2019.12.12-17.39.18:869][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.12-17.39.18:869][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.12-17.39.18:870][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.12-17.39.18:870][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Engine.ini]
+[2019.12.12-17.39.18:870][  0]LogInit: Computer: DESKTOP-L4BREF2
+[2019.12.12-17.39.18:870][  0]LogInit: User: Zoey
+[2019.12.12-17.39.18:870][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.12.12-17.39.18:870][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.12-17.39.18:870][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.12.12-17.39.18:870][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.12-17.39.18:870][  0]LogMemory: Process Physical Memory: 99.16 MB used, 99.16 MB peak
+[2019.12.12-17.39.18:870][  0]LogMemory: Process Virtual Memory: 110.14 MB used, 110.14 MB peak
+[2019.12.12-17.39.18:870][  0]LogMemory: Physical Memory: 6211.44 MB used,  10111.94 MB free, 16323.38 MB total
+[2019.12.12-17.39.18:870][  0]LogMemory: Virtual Memory: 4661.87 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.12.12-17.39.18:874][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.12-17.39.18:908][  0]LogInit: Using OS detected language (en-GB).
+[2019.12.12-17.39.18:908][  0]LogInit: Using OS detected locale (en-GB).
+[2019.12.12-17.39.18:909][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.12.12-17.39.19:225][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.12-17.39.19:321][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.12-17.39.19:321][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.12-17.39.19:564][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.12-17.39.19:564][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.12-17.39.19:739][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 710' (Feature Level 11_0)
+[2019.12.12-17.39.19:740][  0]LogD3D11RHI:       2007/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.12.12-17.39.19:745][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.12-17.39.19:745][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.12-17.39.19:745][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.12-17.39.19:759][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.12-17.39.19:759][  0]LogD3D11RHI:     GPU DeviceId: 0x128b (for the marketing name, search the web for "GPU Device Id")
+[2019.12.12-17.39.19:759][  0]LogWindows: EnumDisplayDevices:
+[2019.12.12-17.39.19:760][  0]LogWindows:    0. 'NVIDIA GeForce GT 710' (P:1 D:1)
+[2019.12.12-17.39.19:760][  0]LogWindows:    1. 'NVIDIA GeForce GT 710' (P:0 D:1)
+[2019.12.12-17.39.19:760][  0]LogWindows:    2. 'NVIDIA GeForce GT 710' (P:0 D:0)
+[2019.12.12-17.39.19:761][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.12.12-17.39.19:761][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 710
+[2019.12.12-17.39.19:761][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2019.12.12-17.39.19:761][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2019.12.12-17.39.19:761][  0]LogRHI: Texture pool is 1404 MB (70% of 2007 MB)
+[2019.12.12-17.39.19:845][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.12-17.39.19:865][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.12-17.39.20:570][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.12-17.39.20:584][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.12-17.39.20:599][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.12-17.39.20:613][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.12-17.39.20:629][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.12-17.39.20:644][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.12-17.39.20:659][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.12-17.39.20:674][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.12-17.39.20:681][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.12-17.39.20:738][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.12-17.39.20:738][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.12-17.39.20:738][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.12-17.39.20:738][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.12-17.39.20:738][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.12-17.39.20:738][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.12-17.39.20:738][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.12-17.39.20:738][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.12-17.39.20:738][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.12-17.39.20:738][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.12-17.39.20:738][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.12-17.39.20:738][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.12-17.39.20:738][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.12-17.39.20:738][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.12-17.39.20:738][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.12-17.39.20:738][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.12-17.39.20:738][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.12-17.39.20:738][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.12-17.39.20:741][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.12-17.39.20:768][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.12-17.39.20:768][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.12-17.39.20:791][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.12-17.39.20:791][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.12-17.39.20:803][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.12-17.39.20:814][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.12-17.39.20:826][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.12-17.39.20:838][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.12-17.39.20:878][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.12-17.39.20:878][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.12-17.39.20:878][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.12-17.39.20:892][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.12-17.39.20:979][  0]LogShaderCompilers: Guid format shader working directory is -40 characters bigger than the processId version (../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Intermediate/Shaders/WorkingDirectory/14380/).
+[2019.12.12-17.39.20:979][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Zoey/AppData/Local/Temp/UnrealShaderWorkingDir/C566AAF247C8A01ADCBDF1B6C70B1087/'.
+[2019.12.12-17.39.20:983][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.12-17.39.20:983][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.12-17.39.20:983][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.12-17.39.22:087][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.12-17.39.22:176][  0]LogDerivedDataCache: Loaded boot cache 0.09s 85MB C:/Users/Zoey/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.12-17.39.22:176][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Zoey/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.12-17.39.22:176][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.12-17.39.22:176][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.12-17.39.22:176][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.12-17.39.22:176][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.12-17.39.22:190][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.12-17.39.22:190][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.12-17.39.22:190][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.12-17.39.22:192][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Zoey/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.12-17.39.22:192][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.12-17.39.22:192][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.12-17.39.22:229][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.12-17.39.22:233][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.12-17.39.22:233][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.12-17.39.22:310][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2019.12.12-17.39.22:725][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.12-17.39.22:942][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.12-17.39.22:942][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.12-17.39.22:942][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.12-17.39.22:942][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.12-17.39.22:942][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.12-17.39.22:956][  0]LogNetVersion: Collisions 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1354284478)
+[2019.12.12-17.39.23:748][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.252168 seconds
+[2019.12.12-17.39.23:759][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.12-17.39.23:759][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.12-17.39.23:759][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.12-17.39.24:952][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.12-17.39.25:104][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.12-17.39.25:105][  0]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2019.12.12-17.39.25:105][  0]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2019.12.12-17.39.25:105][  0]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2019.12.12-17.39.25:231][  0]SourceControl: Source control is disabled
+[2019.12.12-17.39.25:232][  0]SourceControl: Source control is disabled
+[2019.12.12-17.39.25:234][  0]SourceControl: Source control is disabled
+[2019.12.12-17.39.25:235][  0]SourceControl: Source control is disabled
+[2019.12.12-17.39.25:382][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.12-17.39.25:612][  0]LogOcInput: OculusInput pre-init called
+[2019.12.12-17.39.25:624][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.12-17.39.25:624][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.12-17.39.25:726][  0]LogEngine: Initializing Engine...
+[2019.12.12-17.39.25:727][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.12-17.39.25:728][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.12-17.39.26:039][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.12-17.39.26:064][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.12-17.39.26:108][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-17.39.26:136][  0]LogInit: FAudioDevice initialized.
+[2019.12.12-17.39.26:137][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.12-17.39.26:411][  0]LogDerivedDataCache: Saved boot cache 0.28s 73MB C:/Users/Zoey/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.12-17.39.26:423][  0]LogInit: Texture streaming: Enabled
+[2019.12.12-17.39.26:456][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.12-17.39.26:501][  0]LogInit: Transaction tracking system initialized
+[2019.12.12-17.39.26:558][  0]BlueprintLog: New page: Editor Load
+[2019.12.12-17.39.26:740][  0]LocalizationService: Localization service is disabled
+[2019.12.12-17.39.28:184][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/' took 0.00s
+[2019.12.12-17.39.28:184][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.12-17.39.28:184][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.12-17.39.28:482][  0]SourceControl: Source control is disabled
+[2019.12.12-17.39.28:998][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.23/FeaturePacks/StarterContent.upack)
+[2019.12.12-17.39.29:651][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2019.12.12-17.39.29:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2019.12.12-17.39.29:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2019.12.12-17.39.29:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2019.12.12-17.39.30:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2019.12.12-17.39.30:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2019.12.12-17.39.30:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2019.12.12-17.39.30:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2019.12.12-17.39.30:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2019.12.12-17.39.30:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2019.12.12-17.39.30:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2019.12.12-17.39.30:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2019.12.12-17.39.30:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Audio/Collapse01.uasset"
+[2019.12.12-17.39.30:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Audio/Collapse02.uasset"
+[2019.12.12-17.39.30:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2019.12.12-17.39.30:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Audio/Explosion01.uasset"
+[2019.12.12-17.39.30:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Audio/Explosion02.uasset"
+[2019.12.12-17.39.30:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2019.12.12-17.39.30:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Audio/Fire01.uasset"
+[2019.12.12-17.39.31:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2019.12.12-17.39.31:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2019.12.12-17.39.31:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2019.12.12-17.39.31:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Audio/Light01.uasset"
+[2019.12.12-17.39.31:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2019.12.12-17.39.32:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Audio/Light02.uasset"
+[2019.12.12-17.39.32:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2019.12.12-17.39.32:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Audio/Smoke01.uasset"
+[2019.12.12-17.39.32:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2019.12.12-17.39.32:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2019.12.12-17.39.32:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2019.12.12-17.39.32:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2019.12.12-17.39.32:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2019.12.12-17.39.32:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2019.12.12-17.39.33:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2019.12.12-17.39.33:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Audio/Steam01.uasset"
+[2019.12.12-17.39.33:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2019.12.12-17.39.34:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2019.12.12-17.39.34:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2019.12.12-17.39.34:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2019.12.12-17.39.34:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2019.12.12-17.39.34:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2019.12.12-17.39.34:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2019.12.12-17.39.35:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2019.12.12-17.39.36:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2019.12.12-17.39.36:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2019.12.12-17.39.36:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2019.12.12-17.39.36:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2019.12.12-17.39.36:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2019.12.12-17.39.36:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2019.12.12-17.39.36:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2019.12.12-17.39.37:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2019.12.12-17.39.37:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2019.12.12-17.39.39:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2019.12.12-17.39.39:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2019.12.12-17.39.39:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2019.12.12-17.39.39:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Maps/Minimal_Default.umap"
+[2019.12.12-17.39.39:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2019.12.12-17.39.40:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Maps/StarterMap.umap"
+[2019.12.12-17.39.40:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2019.12.12-17.39.40:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2019.12.12-17.39.40:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2019.12.12-17.39.40:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2019.12.12-17.39.40:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2019.12.12-17.39.40:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2019.12.12-17.39.40:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2019.12.12-17.39.40:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2019.12.12-17.39.41:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2019.12.12-17.39.41:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2019.12.12-17.39.41:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2019.12.12-17.39.41:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2019.12.12-17.39.41:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2019.12.12-17.39.41:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2019.12.12-17.39.41:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2019.12.12-17.39.41:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2019.12.12-17.39.41:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2019.12.12-17.39.41:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2019.12.12-17.39.41:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Glass.uasset"
+[2019.12.12-17.39.41:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2019.12.12-17.39.41:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2019.12.12-17.39.41:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2019.12.12-17.39.41:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2019.12.12-17.39.41:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2019.12.12-17.39.41:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2019.12.12-17.39.42:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2019.12.12-17.39.42:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2019.12.12-17.39.42:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2019.12.12-17.39.42:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2019.12.12-17.39.42:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2019.12.12-17.39.42:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2019.12.12-17.39.42:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2019.12.12-17.39.42:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2019.12.12-17.39.42:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2019.12.12-17.39.42:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2019.12.12-17.39.42:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2019.12.12-17.39.42:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2019.12.12-17.39.42:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2019.12.12-17.39.42:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2019.12.12-17.39.42:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2019.12.12-17.39.42:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2019.12.12-17.39.43:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2019.12.12-17.39.43:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2019.12.12-17.39.43:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2019.12.12-17.39.43:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2019.12.12-17.39.43:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Particles/P_Explosion.uasset"
+[2019.12.12-17.39.43:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Particles/P_Fire.uasset"
+[2019.12.12-17.39.43:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Particles/P_Smoke.uasset"
+[2019.12.12-17.39.43:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Particles/P_Sparks.uasset"
+[2019.12.12-17.39.43:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2019.12.12-17.39.43:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2019.12.12-17.39.43:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2019.12.12-17.39.44:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2019.12.12-17.39.44:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2019.12.12-17.39.44:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2019.12.12-17.39.44:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2019.12.12-17.39.44:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2019.12.12-17.39.44:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2019.12.12-17.39.44:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2019.12.12-17.39.44:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2019.12.12-17.39.44:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/MaterialSphere.uasset"
+[2019.12.12-17.39.44:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/SM_Bush.uasset"
+[2019.12.12-17.39.44:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/SM_Chair.uasset"
+[2019.12.12-17.39.44:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2019.12.12-17.39.44:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/SM_Couch.uasset"
+[2019.12.12-17.39.45:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/SM_Door.uasset"
+[2019.12.12-17.39.45:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2019.12.12-17.39.45:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2019.12.12-17.39.45:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2019.12.12-17.39.45:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2019.12.12-17.39.45:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2019.12.12-17.39.45:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2019.12.12-17.39.45:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2019.12.12-17.39.45:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/SM_Rock.uasset"
+[2019.12.12-17.39.45:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/SM_Shelf.uasset"
+[2019.12.12-17.39.46:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/SM_Stairs.uasset"
+[2019.12.12-17.39.46:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/SM_Statue.uasset"
+[2019.12.12-17.39.46:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/SM_TableRound.uasset"
+[2019.12.12-17.39.46:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2019.12.12-17.39.46:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2019.12.12-17.39.46:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2019.12.12-17.39.46:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2019.12.12-17.39.46:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2019.12.12-17.39.46:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2019.12.12-17.39.46:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2019.12.12-17.39.46:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2019.12.12-17.39.46:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2019.12.12-17.39.46:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2019.12.12-17.39.46:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2019.12.12-17.39.46:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2019.12.12-17.39.46:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2019.12.12-17.39.46:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2019.12.12-17.39.46:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2019.12.12-17.39.47:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2019.12.12-17.39.47:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2019.12.12-17.39.47:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2019.12.12-17.39.47:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2019.12.12-17.39.47:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2019.12.12-17.39.47:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2019.12.12-17.39.47:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2019.12.12-17.39.47:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2019.12.12-17.39.47:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2019.12.12-17.39.47:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2019.12.12-17.39.47:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2019.12.12-17.39.47:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2019.12.12-17.39.48:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2019.12.12-17.39.48:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2019.12.12-17.39.48:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2019.12.12-17.39.48:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2019.12.12-17.39.48:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2019.12.12-17.39.48:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2019.12.12-17.39.48:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2019.12.12-17.39.49:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2019.12.12-17.39.49:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2019.12.12-17.39.49:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2019.12.12-17.39.49:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2019.12.12-17.39.49:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2019.12.12-17.39.49:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2019.12.12-17.39.50:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2019.12.12-17.39.50:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2019.12.12-17.39.50:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2019.12.12-17.39.50:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2019.12.12-17.39.50:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2019.12.12-17.39.50:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2019.12.12-17.39.50:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2019.12.12-17.39.50:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2019.12.12-17.39.50:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2019.12.12-17.39.51:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2019.12.12-17.39.51:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2019.12.12-17.39.51:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2019.12.12-17.39.51:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2019.12.12-17.39.52:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2019.12.12-17.39.53:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2019.12.12-17.39.53:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2019.12.12-17.39.53:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2019.12.12-17.39.53:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2019.12.12-17.39.53:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2019.12.12-17.39.53:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2019.12.12-17.39.54:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2019.12.12-17.39.54:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2019.12.12-17.39.54:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2019.12.12-17.39.55:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2019.12.12-17.39.55:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2019.12.12-17.39.55:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2019.12.12-17.39.55:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2019.12.12-17.39.56:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2019.12.12-17.39.56:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2019.12.12-17.39.56:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2019.12.12-17.39.56:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2019.12.12-17.39.56:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Door_M.uasset"
+[2019.12.12-17.39.56:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Door_N.uasset"
+[2019.12.12-17.39.56:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2019.12.12-17.39.57:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2019.12.12-17.39.57:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2019.12.12-17.39.58:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2019.12.12-17.39.58:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2019.12.12-17.39.59:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2019.12.12-17.39.59:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2019.12.12-17.40.00:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2019.12.12-17.40.00:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2019.12.12-17.40.01:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2019.12.12-17.40.01:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2019.12.12-17.40.02:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2019.12.12-17.40.02:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2019.12.12-17.40.02:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2019.12.12-17.40.03:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2019.12.12-17.40.03:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2019.12.12-17.40.04:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2019.12.12-17.40.04:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2019.12.12-17.40.04:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2019.12.12-17.40.05:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2019.12.12-17.40.05:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2019.12.12-17.40.06:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2019.12.12-17.40.06:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2019.12.12-17.40.06:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2019.12.12-17.40.06:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2019.12.12-17.40.07:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2019.12.12-17.40.07:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2019.12.12-17.40.07:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2019.12.12-17.40.07:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2019.12.12-17.40.07:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2019.12.12-17.40.07:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2019.12.12-17.40.07:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2019.12.12-17.40.08:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2019.12.12-17.40.08:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2019.12.12-17.40.08:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2019.12.12-17.40.09:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2019.12.12-17.40.09:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2019.12.12-17.40.09:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2019.12.12-17.40.09:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2019.12.12-17.40.09:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2019.12.12-17.40.09:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2019.12.12-17.40.09:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2019.12.12-17.40.09:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2019.12.12-17.40.10:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2019.12.12-17.40.10:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2019.12.12-17.40.10:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2019.12.12-17.40.10:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2019.12.12-17.40.10:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2019.12.12-17.40.10:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2019.12.12-17.40.10:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2019.12.12-17.40.10:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2019.12.12-17.40.10:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Water_M.uasset"
+[2019.12.12-17.40.10:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Water_N.uasset"
+[2019.12.12-17.40.11:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2019.12.12-17.40.11:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2019.12.12-17.40.11:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2019.12.12-17.40.11:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2019.12.12-17.40.11:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2019.12.12-17.40.11:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2019.12.12-17.40.12:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2019.12.12-17.40.12:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2019.12.12-17.40.12:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2019.12.12-17.40.13:051][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2019.12.12-17.40.13:269][  0]LogStaticMesh: Built static mesh [0.24s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2019.12.12-17.40.15:001][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 9 NumSamples 1 (Frame:1).
+[2019.12.12-17.40.16:691][  0]LogSavePackage: Moving '../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Floor_400x40037719AC14DB4A7A48F981AA05D50DB71.tmp' to '../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2019.12.12-17.40.17:036][  0]LogFeaturePack: Warning: Inserted 2 feature packs
+[2019.12.12-17.40.17:044][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.12-17.40.17:044][  0]LightingResults: New page: Lighting Build
+[2019.12.12-17.40.17:048][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-17.40.17:049][  0]MapCheck: New page: Map Check
+[2019.12.12-17.40.17:049][  0]LightingResults: New page: Lighting Build
+[2019.12.12-17.40.17:121][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2019.12.12-17.40.18:925][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.12-17.40.19:115][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.12-17.40.19:237][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2019.12.12-17.40.19:237][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.12-17.40.19:238][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.002ms to complete.
+[2019.12.12-17.40.19:239][  0]LogFileHelpers: Loading map 'Minimal_Default' took 2.195
+[2019.12.12-17.40.21:345][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-17.40.21:355][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-17.40.21:366][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-17.40.21:377][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-17.40.21:811][  0]LogCollectionManager: Loaded 0 collections in 0.002463 seconds
+[2019.12.12-17.40.22:403][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Collections/' took 0.00s
+[2019.12.12-17.40.22:403][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/Developers/Zoey/Collections/' took 0.00s
+[2019.12.12-17.40.22:403][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/Collections/' took 0.00s
+[2019.12.12-17.40.22:403][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000004 seconds
+[2019.12.12-17.40.22:446][  0]LogContentBrowser: Native class hierarchy populated in 0.0157 seconds. Added 2864 classes and 682 folders.
+[2019.12.12-17.40.22:586][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.12.12-17.40.26:565][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.12.12-17.40.26:931][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.12.12-17.40.27:956][  0]LogSlate: Took 0.000592 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.12-17.40.27:960][  0]LogSlate: Took 0.000531 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.12-17.40.28:099][  0]LogSlate: Took 0.054610 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.12-17.40.28:844][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 9 NumSamples 1 (Frame:1).
+[2019.12.12-17.40.29:267][  0]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.12-17.40.29:377][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.12.12-17.40.29:377][  0]LogLoad: (Engine Initialization) Total time: 72.22 seconds
+[2019.12.12-17.40.29:377][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.12-17.40.29:728][  0]LogContentStreaming: Texture pool size now 400 MB
+[2019.12.12-17.40.48:153][898]LogAssetRegistry: Asset discovery search completed in 85.8441 seconds
+[2019.12.12-17.40.48:159][898]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000018 seconds (found 0 objects)
+[2019.12.12-17.40.48:159][898]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000124 seconds (updated 0 objects)
+[2019.12.12-17.42.10:983][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-17.42.17:009][171]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.12-17.42.17:166][171]LogSlate: Took 0.080055 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.12-17.42.34:305][926]Candidate modules for hot reload:
+[2019.12.12-17.42.34:305][926]  Collisions
+[2019.12.12-17.42.34:305][926]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Collisions,9757 Win64 Development -TargetType=Editor -Project="C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Collisions.uproject" "C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Collisions.uproject"  -IgnoreJunk]
+[2019.12.12-17.42.55:246][926]CompilerResultsLog: New page: Compilation - 12 Dec 2019 17:42:55
+[2019.12.12-17.42.55:246][926]CompilerResultsLog: Creating makefile for CollisionsEditor (.uproject file is newer)
+[2019.12.12-17.42.55:246][926]CompilerResultsLog: Parsing headers for CollisionsEditor
+[2019.12.12-17.42.55:246][926]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Collisions.uproject" "C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Intermediate\Build\Win64\CollisionsEditor\Development\CollisionsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.12-17.42.55:246][926]CompilerResultsLog: Reflection code generated for CollisionsEditor in 10.1295856 seconds
+[2019.12.12-17.42.55:246][926]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.12-17.42.55:247][926]CompilerResultsLog: Building 9 actions with 4 processes...
+[2019.12.12-17.42.55:247][926]CompilerResultsLog:   [1/9] Collisions.cpp
+[2019.12.12-17.42.55:247][926]CompilerResultsLog:   [2/9] CollidingPawn.cpp
+[2019.12.12-17.42.55:247][926]CompilerResultsLog:   [3/9] CollidingPawn.gen.cpp
+[2019.12.12-17.42.55:247][926]CompilerResultsLog:   [4/9] CollisionsGameModeBase.cpp
+[2019.12.12-17.42.55:247][926]CompilerResultsLog:   [5/9] Collisions.init.gen.cpp
+[2019.12.12-17.42.55:247][926]CompilerResultsLog:   [6/9] CollisionsGameModeBase.gen.cpp
+[2019.12.12-17.42.55:247][926]CompilerResultsLog:   [7/9] UE4Editor-Collisions-9757.lib
+[2019.12.12-17.42.55:247][926]CompilerResultsLog:      Creating library C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Intermediate\Build\Win64\UE4Editor\Development\Collisions\UE4Editor-Collisions-9757.lib and object C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Intermediate\Build\Win64\UE4Editor\Development\Collisions\UE4Editor-Collisions-9757.exp
+[2019.12.12-17.42.55:247][926]CompilerResultsLog:   [8/9] UE4Editor-Collisions-9757.dll
+[2019.12.12-17.42.55:247][926]CompilerResultsLog:      Creating library C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Intermediate\Build\Win64\UE4Editor\Development\Collisions\UE4Editor-Collisions-9757.suppressed.lib and object C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Intermediate\Build\Win64\UE4Editor\Development\Collisions\UE4Editor-Collisions-9757.suppressed.exp
+[2019.12.12-17.42.55:247][926]CompilerResultsLog:   [9/9] CollisionsEditor.target
+[2019.12.12-17.42.55:247][926]CompilerResultsLog: Total time in Parallel executor: 6.44 seconds
+[2019.12.12-17.42.55:247][926]CompilerResultsLog: Total execution time: 20.65 seconds
+[2019.12.12-17.42.55:247][926]LogMainFrame: MainFrame: Module compiling took 20.984 seconds
+[2019.12.12-17.42.55:337][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.12.12-17.42.55:359][926]LogClass: Could not find existing class CollidingPawn in package /Script/Collisions for HotReload, assuming new class
+[2019.12.12-17.42.55:365][926]LogContentBrowser: Native class hierarchy updated for 'Collisions' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2019.12.12-17.42.55:370][926]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.12.12-17.42.57:490][926]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.12.12-17.42.57:521][926]LogContentBrowser: Native class hierarchy populated in 0.0152 seconds. Added 2866 classes and 684 folders.
+[2019.12.12-17.42.57:587][926]Display: HotReload took 23.4s.
+[2019.12.12-17.42.57:590][926]Warning: HotReload operation took 23.4s.
+[2019.12.12-17.43.02:887][926]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Source/Collisions/CollidingPawn.h'
+[2019.12.12-17.43.03:351][926]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Source/Collisions/CollidingPawn.cpp'
+[2019.12.12-17.43.03:387][926]LogSlate: Window 'Add C++ Class' being destroyed
+[2019.12.12-17.43.03:798][927]LogHotReload: New module detected: UE4Editor-Collisions-9757.dll
+[2019.12.12-17.43.03:843][928]LogHotReload: Starting Hot-Reload from IDE
+[2019.12.12-17.43.04:013][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.12.12-17.43.04:020][928]LogContentBrowser: Native class hierarchy updated for 'Collisions' in 0.0008 seconds. Added 2 classes and 2 folders.
+[2019.12.12-17.43.04:027][928]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.12.12-17.43.04:072][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.12.12-17.43.04:097][928]LogContentBrowser: Native class hierarchy populated in 0.0167 seconds. Added 2866 classes and 684 folders.
+[2019.12.12-17.43.04:104][928]Display: HotReload took  0.3s.
+[2019.12.12-17.58.39:770][814]Candidate modules for hot reload:
+[2019.12.12-17.58.39:770][814]  Collisions
+[2019.12.12-17.58.39:771][814]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Collisions,1007 Win64 Development -TargetType=Editor -Project="C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Collisions.uproject" "C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Collisions.uproject"  -IgnoreJunk]
+[2019.12.12-17.58.39:799][814]Warning: Starting HotReload took  0.0s.
+[2019.12.12-17.58.57:545][686]CompilerResultsLog: New page: Compilation - 12 Dec 2019 17:58:57
+[2019.12.12-17.58.57:545][686]CompilerResultsLog: Parsing headers for CollisionsEditor
+[2019.12.12-17.58.57:545][686]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Collisions.uproject" "C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Intermediate\Build\Win64\CollisionsEditor\Development\CollisionsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.12-17.58.57:545][686]CompilerResultsLog: Reflection code generated for CollisionsEditor in 10.8388465 seconds
+[2019.12.12-17.58.57:545][686]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.12-17.58.57:545][686]CompilerResultsLog: Building 5 actions with 4 processes...
+[2019.12.12-17.58.57:545][686]CompilerResultsLog:   [1/5] CollidingPawn.gen.cpp
+[2019.12.12-17.58.57:545][686]CompilerResultsLog:   [2/5] CollidingPawn.cpp
+[2019.12.12-17.58.57:545][686]CompilerResultsLog:   [3/5] UE4Editor-Collisions-1007.lib
+[2019.12.12-17.58.57:545][686]CompilerResultsLog:      Creating library C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Intermediate\Build\Win64\UE4Editor\Development\Collisions\UE4Editor-Collisions-1007.lib and object C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Intermediate\Build\Win64\UE4Editor\Development\Collisions\UE4Editor-Collisions-1007.exp
+[2019.12.12-17.58.57:545][686]CompilerResultsLog:   [4/5] UE4Editor-Collisions-1007.dll
+[2019.12.12-17.58.57:545][686]CompilerResultsLog:      Creating library C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Intermediate\Build\Win64\UE4Editor\Development\Collisions\UE4Editor-Collisions-1007.suppressed.lib and object C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Intermediate\Build\Win64\UE4Editor\Development\Collisions\UE4Editor-Collisions-1007.suppressed.exp
+[2019.12.12-17.58.57:545][686]CompilerResultsLog:   [5/5] CollisionsEditor.target
+[2019.12.12-17.58.57:545][686]CompilerResultsLog: Total time in Parallel executor: 4.28 seconds
+[2019.12.12-17.58.57:545][686]CompilerResultsLog: Total execution time: 17.52 seconds
+[2019.12.12-17.58.57:545][686]LogMainFrame: MainFrame: Module compiling took 17.779 seconds
+[2019.12.12-17.58.57:587][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.12.12-17.58.57:613][686]LogClass: Could not find existing class CollidingPawn in package /Script/Collisions for HotReload, assuming new class
+[2019.12.12-17.58.57:943][686]LogHotReload: Re-instancing CollidingPawn after hot-reload.
+[2019.12.12-17.58.58:072][686]LogContentBrowser: Native class hierarchy updated for 'Collisions' in 0.0006 seconds. Added 2 classes and 2 folders.
+[2019.12.12-17.58.58:078][686]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.12.12-17.58.58:191][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.12.12-17.58.58:213][686]LogContentBrowser: Native class hierarchy populated in 0.0144 seconds. Added 2866 classes and 684 folders.
+[2019.12.12-17.58.58:213][686]Display: HotReload took 18.5s.
+[2019.12.12-17.59.18:744][531]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.12-18.01.08:961][445]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.12-18.01.08:975][445]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.12-18.01.39:267][883]Candidate modules for hot reload:
+[2019.12.12-18.01.39:267][883]  Collisions
+[2019.12.12-18.01.39:267][883]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Collisions,2130 Win64 Development -TargetType=Editor -Project="C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Collisions.uproject" "C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Collisions.uproject"  -IgnoreJunk]
+[2019.12.12-18.01.57:053][883]CompilerResultsLog: New page: Compilation - 12 Dec 2019 18:01:57
+[2019.12.12-18.01.57:053][883]CompilerResultsLog: Invalidating makefile for CollisionsEditor (source file added)
+[2019.12.12-18.01.57:053][883]CompilerResultsLog: Parsing headers for CollisionsEditor
+[2019.12.12-18.01.57:053][883]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Collisions.uproject" "C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Intermediate\Build\Win64\CollisionsEditor\Development\CollisionsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.12-18.01.57:053][883]CompilerResultsLog: Reflection code generated for CollisionsEditor in 9.9707475 seconds
+[2019.12.12-18.01.57:053][883]CompilerResultsLog: Error: C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Source\Collisions\CollidingPawn.cpp(1) : error: Expected CollidingPawn.h to be first header included.
+[2019.12.12-18.01.57:053][883]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.12-18.01.57:053][883]CompilerResultsLog: Building 6 actions with 4 processes...
+[2019.12.12-18.01.57:053][883]CompilerResultsLog:   [1/6] Collisions.init.gen.cpp
+[2019.12.12-18.01.57:053][883]CompilerResultsLog:   [2/6] CollidingPawnMovementComponent.cpp
+[2019.12.12-18.01.57:053][883]CompilerResultsLog:   [3/6] CollidingPawnMovementComponent.gen.cpp
+[2019.12.12-18.01.57:053][883]CompilerResultsLog:   [4/6] UE4Editor-Collisions-2130.lib
+[2019.12.12-18.01.57:053][883]CompilerResultsLog:      Creating library C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Intermediate\Build\Win64\UE4Editor\Development\Collisions\UE4Editor-Collisions-2130.lib and object C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Intermediate\Build\Win64\UE4Editor\Development\Collisions\UE4Editor-Collisions-2130.exp
+[2019.12.12-18.01.57:054][883]CompilerResultsLog:   [5/6] UE4Editor-Collisions-2130.dll
+[2019.12.12-18.01.57:054][883]CompilerResultsLog:      Creating library C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Intermediate\Build\Win64\UE4Editor\Development\Collisions\UE4Editor-Collisions-2130.suppressed.lib and object C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Intermediate\Build\Win64\UE4Editor\Development\Collisions\UE4Editor-Collisions-2130.suppressed.exp
+[2019.12.12-18.01.57:054][883]CompilerResultsLog:   [6/6] CollisionsEditor.target
+[2019.12.12-18.01.57:054][883]CompilerResultsLog: Total time in Parallel executor: 3.53 seconds
+[2019.12.12-18.01.57:054][883]CompilerResultsLog: Total execution time: 17.60 seconds
+[2019.12.12-18.01.57:054][883]LogMainFrame: MainFrame: Module compiling took 17.791 seconds
+[2019.12.12-18.01.57:095][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.12.12-18.01.57:124][883]LogClass: Could not find existing class CollidingPawnMovementComponent in package /Script/Collisions for HotReload, assuming new class
+[2019.12.12-18.01.57:132][883]LogContentBrowser: Native class hierarchy updated for 'Collisions' in 0.0006 seconds. Added 3 classes and 2 folders.
+[2019.12.12-18.01.57:138][883]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.12.12-18.01.57:254][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.12.12-18.01.57:276][883]LogContentBrowser: Native class hierarchy populated in 0.0147 seconds. Added 2867 classes and 684 folders.
+[2019.12.12-18.01.57:276][883]Display: HotReload took 18.0s.
+[2019.12.12-18.01.57:279][883]Warning: HotReload operation took 18.0s.
+[2019.12.12-18.01.57:486][883]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Source/Collisions/CollidingPawnMovementComponent.h'
+[2019.12.12-18.01.57:486][883]LogVSAccessor: Warning: Couldn't open file 'C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Source/Collisions/CollidingPawnMovementComponent.cpp'.
+[2019.12.12-18.01.57:489][883]LogSlate: Window 'Add C++ Class' being destroyed
+[2019.12.12-18.01.57:496][883]LogHotReload: New module detected: UE4Editor-Collisions-2130.dll
+[2019.12.12-18.01.57:566][884]LogHotReload: Starting Hot-Reload from IDE
+[2019.12.12-18.01.57:701][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.12.12-18.01.57:708][884]LogContentBrowser: Native class hierarchy updated for 'Collisions' in 0.0006 seconds. Added 3 classes and 2 folders.
+[2019.12.12-18.01.57:714][884]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.12.12-18.01.57:753][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.12.12-18.01.57:776][884]LogContentBrowser: Native class hierarchy populated in 0.0147 seconds. Added 2867 classes and 684 folders.
+[2019.12.12-18.01.57:779][884]Display: HotReload took  0.2s.
+[2019.12.12-19.04.50:329][389]Candidate modules for hot reload:
+[2019.12.12-19.04.50:330][389]  Collisions
+[2019.12.12-19.04.50:330][389]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Collisions,4880 Win64 Development -TargetType=Editor -Project="C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Collisions.uproject" "C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Collisions.uproject"  -IgnoreJunk]
+[2019.12.12-19.04.50:448][389]Warning: Starting HotReload took  0.2s.
+[2019.12.12-19.06.03:966][497]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.12.12-19.06.04:510][498]CompilerResultsLog: New page: Compilation - 12 Dec 2019 19:06:04
+[2019.12.12-19.06.04:510][498]CompilerResultsLog: Parsing headers for CollisionsEditor
+[2019.12.12-19.06.04:510][498]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Collisions.uproject" "C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Intermediate\Build\Win64\CollisionsEditor\Development\CollisionsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.12-19.06.04:510][498]CompilerResultsLog: Reflection code generated for CollisionsEditor in 58.4521178 seconds
+[2019.12.12-19.06.04:510][498]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.12-19.06.04:510][498]CompilerResultsLog: Building 7 actions with 4 processes...
+[2019.12.12-19.06.04:510][498]CompilerResultsLog:   [1/7] CollidingPawnMovementComponent.cpp
+[2019.12.12-19.06.04:511][498]CompilerResultsLog:   [2/7] CollidingPawnMovementComponent.gen.cpp
+[2019.12.12-19.06.04:511][498]CompilerResultsLog:   [3/7] CollidingPawn.gen.cpp
+[2019.12.12-19.06.04:511][498]CompilerResultsLog:   [4/7] CollidingPawn.cpp
+[2019.12.12-19.06.04:511][498]CompilerResultsLog:   [5/7] UE4Editor-Collisions-4880.lib
+[2019.12.12-19.06.04:511][498]CompilerResultsLog:      Creating library C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Intermediate\Build\Win64\UE4Editor\Development\Collisions\UE4Editor-Collisions-4880.lib and object C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Intermediate\Build\Win64\UE4Editor\Development\Collisions\UE4Editor-Collisions-4880.exp
+[2019.12.12-19.06.04:511][498]CompilerResultsLog:   [6/7] UE4Editor-Collisions-4880.dll
+[2019.12.12-19.06.04:511][498]CompilerResultsLog:      Creating library C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Intermediate\Build\Win64\UE4Editor\Development\Collisions\UE4Editor-Collisions-4880.suppressed.lib and object C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Intermediate\Build\Win64\UE4Editor\Development\Collisions\UE4Editor-Collisions-4880.suppressed.exp
+[2019.12.12-19.06.04:511][498]CompilerResultsLog:   [7/7] CollisionsEditor.target
+[2019.12.12-19.06.04:511][498]CompilerResultsLog: Total time in Parallel executor: 7.71 seconds
+[2019.12.12-19.06.04:511][498]CompilerResultsLog: Total execution time: 73.26 seconds
+[2019.12.12-19.06.04:511][498]LogMainFrame: MainFrame: Module compiling took 74.186 seconds
+[2019.12.12-19.06.04:550][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.12.12-19.06.04:575][498]LogClass: Could not find existing class CollidingPawn in package /Script/Collisions for HotReload, assuming new class
+[2019.12.12-19.06.04:587][498]LogHotReload: Re-instancing CollidingPawn after hot-reload.
+[2019.12.12-19.06.04:708][498]LogContentBrowser: Native class hierarchy updated for 'Collisions' in 0.0007 seconds. Added 3 classes and 2 folders.
+[2019.12.12-19.06.04:714][498]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.12.12-19.06.04:838][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.12.12-19.06.04:860][498]LogContentBrowser: Native class hierarchy populated in 0.0148 seconds. Added 2867 classes and 684 folders.
+[2019.12.12-19.06.04:860][498]Display: HotReload took 74.6s.
+[2019.12.12-19.06.06:910][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-19.06.29:241][471]LogEditor: Attempting to add actor of class 'CollidingPawn' to level at -70.00,540.00,10.00
+[2019.12.12-19.06.29:995][491]LogEditor: Attempting to add actor of class 'CollidingPawn' to level at -50.00,160.00,70.00
+[2019.12.12-19.06.39:886][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-19.06.39:943][902]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-19.06.40:006][902]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.12-19.06.40:006][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-19.06.40:036][902]PIE: New page: PIE session: Minimal_Default (12 Dec 2019 19:06:40)
+[2019.12.12-19.06.40:038][902]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.12-19.06.40:064][902]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.12-19.06.40:138][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073324s)
+[2019.12.12-19.06.40:148][902]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.12-19.06.40:149][902]LogPlayLevel: PIE: World Init took: (0.002129s)
+[2019.12.12-19.06.40:149][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.084315s)
+[2019.12.12-19.06.40:196][902]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.12.12-19.06.40:274][902]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-19.06.40:296][902]LogInit: FAudioDevice initialized.
+[2019.12.12-19.06.40:318][902]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/Collisions.CollisionsGameMode'
+[2019.12.12-19.06.40:318][902]LogLoad: Game class is 'GameModeBase'
+[2019.12.12-19.06.40:406][902]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.12.12-19.06.40
+[2019.12.12-19.06.40:426][902]LogWorld: Bringing up level for play took: 0.020759
+[2019.12.12-19.06.40:436][902]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.12.12-19.06.40:527][902]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.12.12-19.06.40:538][902]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.372
+[2019.12.12-19.06.40:538][902]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.12-19.06.50:146][838]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.12-19.06.50:158][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-19.06.50:158][838]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.12-19.06.50:158][838]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-19.06.50:166][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-19.06.50:166][838]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.12-19.06.50:217][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-19.06.50:221][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.12.12-19.06.50:246][839]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.12.12-19.06.51:482][896]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.12-19.06.52:877][960]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.12-19.06.53:028][967]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.12-19.06.54:236][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.12-19.06.55:558][ 24]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.12-19.07.09:054][595]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.12-19.07.09:082][595]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.12-19.07.10:216][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-19.07.10:322][653]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-19.07.10:339][653]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.12-19.07.10:339][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-19.07.10:339][653]PIE: New page: PIE session: Minimal_Default (12 Dec 2019 19:07:10)
+[2019.12.12-19.07.10:339][653]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.12-19.07.10:345][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006275s)
+[2019.12.12-19.07.10:347][653]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.12-19.07.10:371][653]LogPlayLevel: PIE: World Init took: (0.024658s)
+[2019.12.12-19.07.10:371][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.031168s)
+[2019.12.12-19.07.10:419][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.12.12-19.07.10:455][653]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-19.07.10:474][653]LogInit: FAudioDevice initialized.
+[2019.12.12-19.07.10:486][653]LogLoad: Game class is 'GameModeBase'
+[2019.12.12-19.07.10:488][653]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.12.12-19.07.10
+[2019.12.12-19.07.10:488][653]LogWorld: Bringing up level for play took: 0.001350
+[2019.12.12-19.07.10:488][653]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.12.12-19.07.10:492][653]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.674
+[2019.12.12-19.07.10:492][653]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.12-19.07.26:120][241]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.12-19.07.26:121][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-19.07.26:121][241]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.12-19.07.26:121][241]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-19.07.26:145][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-19.07.26:145][241]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.12-19.07.26:199][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-19.07.26:203][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.12.12-19.07.26:226][242]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.12.12-19.07.32:089][520]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-19.07.40:712][876]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-19.07.40:712][876]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.12-19.07.40:712][876]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2019.12.12-19.07.40:712][876]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-19.07.40:712][876]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.12.12-19.07.40:712][876]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-19.07.40:712][876]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.12-19.07.40:712][876]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.12-19.07.40:712][876]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2019.12.12-19.07.40:712][876]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.12.12-19.07.40:712][876]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.12-19.07.40:712][876]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2019.12.12-19.07.40:712][876]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2019.12.12-19.07.40:712][876]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2019.12.12-19.07.40:712][876]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.12.12-19.07.40:712][876]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.12-19.07.40:712][876]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.12-19.07.40:712][876]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2019.12.12-19.07.40:712][876]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.12-19.07.40:713][876]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2019.12.12-19.07.40:713][876]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.12-19.07.40:713][876]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.12-19.07.40:714][876]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2019.12.12-19.07.40:714][876]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.12.12-19.07.40:714][876]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2019.12.12-19.07.40:714][876]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.12-19.07.40:714][876]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-19.07.40:714][876]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2019.12.12-19.07.40:714][876]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.12-19.07.40:714][876]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2019.12.12-19.07.40:714][876]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.12.12-19.07.40:714][876]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.12.12-19.07.40:714][876]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.12-19.07.40:714][876]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.12-19.07.40:714][876]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.12-19.07.40:714][876]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2019.12.12-19.07.40:714][876]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2019.12.12-19.07.40:714][876]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.12-19.07.40:714][876]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2019.12.12-19.07.40:714][876]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2019.12.12-19.07.40:714][876]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-19.07.40:714][876]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2019.12.12-19.07.40:714][876]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2019.12.12-19.07.40:774][877]LogRenderer: Reallocating scene render targets to support 1208x572 Format 9 NumSamples 1 (Frame:13836).
+[2019.12.12-19.07.41:055][881]LogContentStreaming: Texture pool size now 800 MB
+[2019.12.12-19.07.42:641][923]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.12.12-19.07.43:712][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-19.07.45:242][989]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-19.07.45:272][989]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.12-19.07.45:272][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-19.07.45:273][989]PIE: New page: PIE session: Minimal_Default (12 Dec 2019 19:07:45)
+[2019.12.12-19.07.45:273][989]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.12-19.07.45:279][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006572s)
+[2019.12.12-19.07.45:281][989]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.12.12-19.07.45:281][989]LogPlayLevel: PIE: World Init took: (0.001649s)
+[2019.12.12-19.07.45:281][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008436s)
+[2019.12.12-19.07.45:320][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.12.12-19.07.45:358][989]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.12-19.07.45:379][989]LogInit: FAudioDevice initialized.
+[2019.12.12-19.07.45:392][989]LogLoad: Game class is 'GameModeBase'
+[2019.12.12-19.07.45:393][989]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2019.12.12-19.07.45
+[2019.12.12-19.07.45:394][989]LogWorld: Bringing up level for play took: 0.001557
+[2019.12.12-19.07.45:394][989]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.12.12-19.07.45:397][989]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.231
+[2019.12.12-19.07.45:397][989]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.12-19.07.56:214][328]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.12-19.07.56:214][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-19.07.56:214][328]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.12.12-19.07.56:215][328]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-19.07.56:302][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-19.07.56:303][328]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.12.12-19.07.56:352][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-19.07.56:357][328]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.12.12-19.07.56:382][329]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.12.12-19.07.58:062][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-19.07.58:310][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.12.12-19.07.58:527][382]LogSavePackage: Moving '../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Minimal_Default04A1839648740EE97E0B1B93149C4737.tmp' to '../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.12.12-19.07.58:717][382]LogSavePackage: Moving '../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Minimal_Default_BuiltDataB22ED07342D5B9BFE0B7B19FDA47D482.tmp' to '../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.12.12-19.07.59:839][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-19.08.00:070][416]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.12.12-19.08.00:228][416]LogSavePackage: Moving '../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Minimal_Default92E3DEAA446542FB3912809A0A995E0A.tmp' to '../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.12.12-19.08.00:379][416]LogSavePackage: Moving '../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Minimal_Default_BuiltDataFC8B292340BD6D9052490F9E0E797B23.tmp' to '../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.12.12-19.08.00:725][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-19.08.00:962][427]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.12.12-19.08.01:120][427]LogSavePackage: Moving '../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Minimal_Default2FE0AF79475F9647DE2DF88C465D0575.tmp' to '../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.12.12-19.08.01:272][427]LogSavePackage: Moving '../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Saved/Minimal_Default_BuiltDataA782666D41BA6E67F23DCD84095B1EFD.tmp' to '../../../../../../Users/Zoey/Documents/Coding/Unreal/GEACoursework/WEEK 2/Collisions/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'

@@ -1,0 +1,20 @@
+﻿  Performing full C++ include scan (hot reloading a new target)
+  Creating makefile for hot reloading HowTo_PlayerCameraEditor (no existing makefile)
+  Compiling game modules for hot reload
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Parsing headers for HowTo_PlayerCameraEditor
+    Running UnrealHeaderTool "C:\Work\ZR\HowTo_PlayerCamera\HowTo_PlayerCamera.uproject" "C:\Work\ZR\HowTo_PlayerCamera\Intermediate\Build\Win64\HowTo_PlayerCameraEditor\DebugGame\HowTo_PlayerCameraEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for HowTo_PlayerCameraEditor in 9.3760868 seconds
+  Building 8 actions with 8 processes...
+    [1/8] PCLaunch.rc
+    [2/8] SharedPCH.Engine.NonOptimized.cpp
+    [3/8] HowTo_PlayerCamera.cpp
+    [4/8] HowTo_PlayerCamera.init.gen.cpp
+    [5/8] HowTo_PlayerCameraGameModeBase.cpp
+    [6/8] HowTo_PlayerCameraGameModeBase.gen.cpp
+    [7/8] UE4Editor-HowTo_PlayerCamera-7207-Win64-DebugGame.lib
+       Creating library C:\Work\ZR\HowTo_PlayerCamera\Intermediate\Build\Win64\UE4Editor\DebugGame\HowTo_PlayerCamera\UE4Editor-HowTo_PlayerCamera-7207-Win64-DebugGame.lib and object C:\Work\ZR\HowTo_PlayerCamera\Intermediate\Build\Win64\UE4Editor\DebugGame\HowTo_PlayerCamera\UE4Editor-HowTo_PlayerCamera-7207-Win64-DebugGame.exp
+    [8/8] UE4Editor-HowTo_PlayerCamera-7207-Win64-DebugGame.dll
+       Creating library C:\Work\ZR\HowTo_PlayerCamera\Intermediate\Build\Win64\UE4Editor\DebugGame\HowTo_PlayerCamera\UE4Editor-HowTo_PlayerCamera-7207-Win64-DebugGame.suppressed.lib and object C:\Work\ZR\HowTo_PlayerCamera\Intermediate\Build\Win64\UE4Editor\DebugGame\HowTo_PlayerCamera\UE4Editor-HowTo_PlayerCamera-7207-Win64-DebugGame.suppressed.exp
+  Deploying HowTo_PlayerCameraEditor Win64 DebugGame...
+  Total build time: 36.45 seconds (Parallel executor: 21.56 seconds)

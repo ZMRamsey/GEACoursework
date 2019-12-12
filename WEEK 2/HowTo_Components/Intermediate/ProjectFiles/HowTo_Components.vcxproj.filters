@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\HowTo_Components.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{945C6EFC-238C-41CE-BC7F-5AA28B61E905}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\HowTo_Components.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\HowTo_ComponentsEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{E27D7A40-091A-4163-B8FE-08BFEC2D638E}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\HowTo_Components">
+			<UniqueIdentifier>{F70E0648-EF8D-4343-81F5-86B7C2DCF1E6}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\HowTo_Components\HowTo_Components.Build.cs">
+			<Filter>Source\HowTo_Components</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\HowTo_Components\HowTo_Components.cpp">
+			<Filter>Source\HowTo_Components</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\HowTo_Components\HowTo_Components.h">
+			<Filter>Source\HowTo_Components</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\HowTo_Components\HowTo_ComponentsGameModeBase.cpp">
+			<Filter>Source\HowTo_Components</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\HowTo_Components\HowTo_ComponentsGameModeBase.h">
+			<Filter>Source\HowTo_Components</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

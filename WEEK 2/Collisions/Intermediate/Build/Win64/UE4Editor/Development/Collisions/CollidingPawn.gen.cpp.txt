@@ -1,0 +1,5 @@
+C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Intermediate\Build\Win64\UE4Editor\Development\Collisions\Definitions.Collisions.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Collisions\Source\Collisions/CollidingPawn.h
+c:\users\zoey\documents\coding\unreal\geacoursework\week 2\collisions\intermediate\build\win64\ue4editor\inc\collisions\CollidingPawn.generated.h
