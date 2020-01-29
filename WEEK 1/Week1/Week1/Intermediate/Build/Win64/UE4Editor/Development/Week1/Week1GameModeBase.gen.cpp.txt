@@ -1,0 +1,9 @@
+C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 1\Week1\Week1\Intermediate\Build\Win64\UE4Editor\Development\Week1\Definitions.Week1.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 1\Week1\Week1\Source\Week1/Week1GameModeBase.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+c:\users\zoey\documents\coding\unreal\geacoursework\week 1\week1\week1\intermediate\build\win64\ue4editor\inc\week1\Week1GameModeBase.generated.h

@@ -1,6 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include "PawnWithCamera.h"
+#include "Components/InputComponent.h"
 
 // Sets default values
 APawnWithCamera::APawnWithCamera()

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Week1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal\Week1\Week1\Intermediate\Build\Win64\Week1Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Unreal\Week1\Week1\Intermediate\Build\Win64\UE4Editor\Development\Week1\Week1.cpp.obj"
+"D:\Unreal\Week1\Week1\Intermediate\Build\Win64\UE4Editor\Development\Week1\Week1GameModeBase.cpp.obj"
+"D:\Unreal\Week1\Week1\Intermediate\Build\Win64\UE4Editor\Development\Week1\Week1.init.gen.cpp.obj"
+"D:\Unreal\Week1\Week1\Intermediate\Build\Win64\UE4Editor\Development\Week1\Week1GameModeBase.gen.cpp.obj"
+"D:\Unreal\Week1\Week1\Intermediate\Build\Win64\UE4Editor\Development\Week1\Default.rc2.res"
+/OUT:"D:\Unreal\Week1\Week1\Intermediate\Build\Win64\UE4Editor\Development\Week1\UE4Editor-Week1.lib"
+/INCLUDE:IMPLEMENT_MODULE_Week1

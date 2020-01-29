@@ -1,0 +1,11 @@
+C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Week2\HowTo_PlayerCamera\Intermediate\Build\Win64\UE4Editor\Development\HowTo_PlayerCamera\Definitions.HowTo_PlayerCamera.h
+c:\users\zoey\documents\coding\unreal\geacoursework\week 2\week2\howto_playercamera\source\howto_playercamera\CollidingPawnMovementComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/PawnMovementComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PathFollowingAgentInterface.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavMovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PawnMovementComponent.generated.h
+C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 2\Week2\HowTo_PlayerCamera\Intermediate\Build\Win64\UE4Editor\Inc\HowTo_PlayerCamera\CollidingPawnMovementComponent.generated.h

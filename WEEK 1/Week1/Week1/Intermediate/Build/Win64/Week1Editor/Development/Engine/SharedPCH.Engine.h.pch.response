@@ -241,16 +241,16 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\INCLUDE"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/I D:\Unreal\Week1\Week1\Intermediate\Build\Win64\Week1Editor\Development\Engine
-/Yc"D:\Unreal\Week1\Week1\Intermediate\Build\Win64\Week1Editor\Development\Engine\SharedPCH.Engine.h"
-/Fp"D:\Unreal\Week1\Week1\Intermediate\Build\Win64\Week1Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\Unreal\Week1\Week1\Intermediate\Build\Win64\Week1Editor\Development\Engine\SharedPCH.Engine.cpp"
-/Fo"D:\Unreal\Week1\Week1\Intermediate\Build\Win64\Week1Editor\Development\Engine\SharedPCH.Engine.h.obj"
+/I "C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 1\Week1\Week1\Intermediate\Build\Win64\Week1Editor\Development\Engine"
+/Yc"C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 1\Week1\Week1\Intermediate\Build\Win64\Week1Editor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 1\Week1\Week1\Intermediate\Build\Win64\Week1Editor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 1\Week1\Week1\Intermediate\Build\Win64\Week1Editor\Development\Engine\SharedPCH.Engine.cpp"
+/Fo"C:\Users\Zoey\Documents\Coding\Unreal\GEACoursework\WEEK 1\Week1\Week1\Intermediate\Build\Win64\Week1Editor\Development\Engine\SharedPCH.Engine.h.obj"
 /TP
 /GR-
 /W4
